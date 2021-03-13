@@ -1,0 +1,6 @@
+[submodule "robodep"]
+	path = robodep
+	url = git@git.sr.ht:~hyakuburns/robodep
+[submodule "El_Tercero"]
+	path = El_Tercero
+	url = git@git.sr.ht:~hyakuburns/El_Tercero
